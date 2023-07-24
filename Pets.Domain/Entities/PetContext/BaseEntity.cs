@@ -1,22 +1,20 @@
 using System;
+using Pets.Domain.ValueObjects;
 
 namespace Pets.Domain.Etities.PetContext
 {
     public abstract class BaseEntity
     {
-        protected BaseEntity(string firstName, string lastName)
+        protected BaseEntity(Name name)
         {
             Id = Guid.NewGuid();
-            FirstName = firstName;
-            LastName = lastName;
             CreateDate = DateTime.UtcNow;
+            Name = name;
         }
 
         public Guid Id { get; private set; }
-        public string FirstName { get; private set; }
-        public string LastName { get; private set; }
+        public Name Name { get; private set; }
         public DateTime CreateDate { get; private set; }
-
     }
 
 }
