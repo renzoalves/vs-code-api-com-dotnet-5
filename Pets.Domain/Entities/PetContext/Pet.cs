@@ -1,9 +1,11 @@
+using Pets.Domain.ValueObjects;
+
 namespace Pets.Domain.Etities.PetContext
 {
     public class Pet : BaseEntity
     {
-        protected Pet(string firstName, string lastName, int identifier)
-        : base(firstName, lastName)
+        protected Pet(Name name, int identifier)
+        : base(name)
         {
             Identifier = identifier;
         }
@@ -17,5 +19,4 @@ namespace Pets.Domain.Etities.PetContext
             Identifier = identifier;
         }
     }
-
 }

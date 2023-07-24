@@ -1,23 +1,22 @@
+using Pets.Domain.ValueObjects;
+
 namespace Pets.Domain.Etities.PetContext
 {
     public class Owner : BaseEntity
     {
-        protected Owner(string firstName, string lastName, string email, string documentNumber, int documentType)
-        : base(firstName, lastName)
+        protected Owner(Name name, string email, Document document)
+        : base(name)
         {
             Email = email;
-            DocumentNumber = documentNumber;
-            DocumentType = documentType;
+            Document = document;
         }
 
         public string Email { get; private set; }
-        public string DocumentNumber { get; private set; }
-        public int DocumentType { get; private set; }
+        public Document Document { get; private set; }
 
         public void SetEmail(string email)
         {
             Email = email;
         }
     }
-
 }

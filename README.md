@@ -1,6 +1,6 @@
-# C# com VSCode - Contruindo uma API com dotNET.5
+# C# com VSCode - Construindo uma API com dotNET.5
 
-## Dividindo em camada:
+## Dividindo em camadas:
 - Introdução, apresentando o problema
 - Camada de domínio
 - - Linguagem ubíqua e contextos delimitados
