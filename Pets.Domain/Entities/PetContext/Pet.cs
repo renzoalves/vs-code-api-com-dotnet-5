@@ -1,4 +1,5 @@
 using Pets.Domain.ValueObjects;
+using Pets.Domain.Validations;
 
 namespace Pets.Domain.Etities.PetContext
 {
@@ -17,6 +18,14 @@ namespace Pets.Domain.Etities.PetContext
         public void SetEmail(int identifier)
         {
             Identifier = identifier;
+        }
+
+        public override bool Validation()
+        {
+            if (NameValidations.IsValidName(this.Name))
+                return false;
+
+            return true;
         }
     }
 }

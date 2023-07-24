@@ -27,9 +27,9 @@
 
 <hr>
 
-## Série de vídeos - Centarl dotNET
+## Série de vídeos - Central dotNET
 
-01 - Introdução e apresentação do problema (API com dotnet5) [5:09]<br>
+01 - Introdução e apresentação do problema (API com dotNET-5) [5:09]<br>
 https://www.youtube.com/watch?v=VEEw-X3sYGg
 
 02 - Domínio - Linguagem Ubíqua e Contextos Delimitados(API com dotnet5) [4:16]<br>
