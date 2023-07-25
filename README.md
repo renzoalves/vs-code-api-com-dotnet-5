@@ -49,3 +49,6 @@ https://www.youtube.com/watch?v=7JoWaR-qmCA
 
 07 - Domínio - Validações das entidades [7:50]<br>
 https://www.youtube.com/watch?v=olkVSiFE6qE
+
+08 - Domínio - Contratos e Notificações (Contracts e Notifications) [7:27]<br>
+https://www.youtube.com/watch?v=vDU-a0UqATI
