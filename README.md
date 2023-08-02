@@ -31,7 +31,9 @@
 
 ## 🎞️ Série de vídeos - Central dotNET <br>(https://www.youtube.com/@CentraldotNET)
 
-### 📗 Camada de Domínio
+<details>
+<summary> 📗 Camada de Domínio </summary>
+<br>
 
 01 - Introdução e apresentação do problema (API com dotNET-5) [5:09]<br>
 https://www.youtube.com/watch?v=VEEw-X3sYGg
@@ -60,11 +62,20 @@ https://www.youtube.com/watch?v=vDU-a0UqATI
 09 - Domínio - Unindo os contratos, validações e notificações [20:07]<br>
 https://www.youtube.com/watch?v=Uy2A-BwUqX4
 
-### 📘 Camada de Testes Unitários 
+</details>
+
+<details>
+<summary>📘 Camada de Testes Unitários </summary>
+<br>
 01 <br>
 02 <br>
 
-### 📙 Camada de Aplicação
+</details>
+
+<details>
+<summary>📙 Camada de Aplicação </summary>
+<br>
+
 01 <br>
 02 <br>
 03 <br>
@@ -72,4 +83,9 @@ https://www.youtube.com/watch?v=Uy2A-BwUqX4
 05 <br>
 06 <br>
 
-### 📕 Camada de Infraestrutura
+</details>
+
+<details>
+<summary>📕 Camada de Infraestrutura </summary>
+<br>
+</details>
