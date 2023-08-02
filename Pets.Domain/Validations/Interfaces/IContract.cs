@@ -1,4 +1,4 @@
-namespace Pets.Domain.Validations.Intefaces
+namespace Pets.Domain.Validations.Interfaces
 {
     public interface IContract
     {

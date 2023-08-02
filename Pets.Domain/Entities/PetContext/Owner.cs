@@ -1,9 +1,10 @@
 using Pets.Domain.ValueObjects;
 using Pets.Domain.Validations;
+using Pets.Domain.Validations.Interfaces;
 
 namespace Pets.Domain.Etities.PetContext
 {
-    public class Owner : BaseEntity
+    public class Owner : BaseEntity, IContract
     {
         protected Owner(Name name, string email, Document document)
         : base(name)
@@ -22,10 +23,13 @@ namespace Pets.Domain.Etities.PetContext
 
         public override bool Validation()
         {
-            if (NameValidations.IsValidName(this.Name))
-                return false;
+            var contracts = new ContractValidations<Owner>()
+            .FirstNameIsOk(this.Name, 20, 5, "O primeiro nome deve ter entre 5 e 20 caracteres", "FirstName")
+            .LastNameIsOk(this.Name, 20, 5, "O primeiro nome deve ter entre 5 e 20 caracteres", "LastName")
+            .EmailIsValid(this.Email, "O e-mail não é válido", "Email")
+            .DocumentIsValid(this.Document, "O documento não é válido", "Document");
 
-            return true;
+            return contracts.IsValid();
         }
     }
 }
