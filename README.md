@@ -1,3 +1,5 @@
+# 9:40 / 20:07 - \validations\descriptionValidations.cs
+
 # C# com VSCode - Construindo uma API com dotNET.5
 
 ## Dividindo em camadas:
@@ -15,19 +17,21 @@
 - Criando a API
 - Ajustando os detalhes
 - Aplicando boas práticas
-- Resolução e Reviem
+- Resolução e Review
 
 ## Case Study: Control of Vaccines for Pet Shop - Solicitação do cliente:
 - Aplicação para controle de vacinação de animais;
 - Precisa ter descrição da vacina;
 - Cadastro de donos;
-- Cadastro e constrole de pets;
+- Cadastro e controle de pets;
 - Um dono pode ter vários pets;
-- As vacionas devem ser separadas por grupos e devem ter um controle e cadastro;
+- As vacinas devem ser separadas por grupos e devem ter um controle e cadastro;
 
-<hr>
+## Info
+- Projeto possui validador de CPF;
+- Projeto possui validador de CNPJ;
 
-## Série de vídeos - Central dotNET
+## Série de vídeos - Central dotNET <br>(https://www.youtube.com/@CentraldotNET)
 
 01 - Introdução e apresentação do problema (API com dotNET-5) [5:09]<br>
 https://www.youtube.com/watch?v=VEEw-X3sYGg
@@ -52,3 +56,6 @@ https://www.youtube.com/watch?v=olkVSiFE6qE
 
 08 - Domínio - Contratos e Notificações (Contracts e Notifications) [7:27]<br>
 https://www.youtube.com/watch?v=vDU-a0UqATI
+
+09 - Domínio - Unindo os contratos, validações e notificações [20:07]<br>
+https://www.youtube.com/watch?v=Uy2A-BwUqX4
