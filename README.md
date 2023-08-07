@@ -89,3 +89,50 @@ https://www.youtube.com/watch?v=Uy2A-BwUqX4
 <summary>📕 Camada de Infraestrutura </summary>
 <br>
 </details>
+
+
+<br><br><br><br>
+
+# Comandos dotNET.5
+
+Estrutura de modelo:<br>
+<pre>
+..\Pets
+..\Pets\Pets.Domain
+..\Pets\Pets.Domain\Pets.Domain.csproj
+..\Pets\Pets.Tests
+..\Pets\Pets.Tests\Pets.Tests.csproj
+</pre>
+<br>
+
+## Testes de Unidades com 'MSTest'.
+
+- Criando um projeto de testes:
+<pre>
+c:\projeto\Pets> mkdir Pets.Tests
+c:\projeto\Pets> cd Pets.Tests
+c:\projeto\Pets\Pets.Tests> dotnet new mstest --framework net5.0
+</pre>
+
+## Solution
+
+- Criando uma solution:
+<pre>c:\projeto\Pets> dotnet new sln</pre>
+
+- Adicionando projetos à solution:
+<pre>
+c:\projeto\Pets> dotnet sln add Pets.Domain
+c:\projeto\Pets> dotnet sln add Pets.Tests
+</pre>
+
+- Buildando a solução:
+<pre>c:\projeto\Pets> dotnet build</pre>
+
+- No prtojeto 'Pets.Tests', adicionando a Referência do Pets.Domain
+<pre>
+c:\projeto\Pets> cd Pets.Tests
+c:\projeto\Pets\Pets.Tests> dotnet add reference ..\Pets.Domain\Pets.Domain.csproj
+</pre>
+
+- Executando os testes automático:
+<pre>c:\projeto\Pets\Pets.Tests> dotnet test</pre>
