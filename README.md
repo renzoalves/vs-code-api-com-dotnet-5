@@ -43,7 +43,6 @@
 07 - Domínio - Validações das entidades<br>
 08 - Domínio - Contratos e Notificações (Contracts e Notifications)<br>
 09 - Domínio - Unindo os contratos, validações e notificações<br>
-<br>
 </details>
 
 <details>
@@ -51,22 +50,17 @@
 <br>
 01 - Testes de unidade - Introdução<br>
 02 - Testes de unidade - Aplicando testes em entidades<br>
-<br>
 </details>
 
 <details>
 <summary>📙 Camada de Aplicação </summary>
 <br>
-
-01 <br>
-02 <br>
-03 <br>
-04 <br>
-05 <br>
-06 <br>
-
-<br>
-
+01 - Aplicação - Introdução aos padrões de projeto <br>
+02 - Aplicação - Objetos de transferência de dados (DTO) <br>
+03 - Aplicação - Requests e Results <br>
+04 - Aplicação - Criando os repositórios abstratos <br>
+05 - Aplicação - Commands <br>
+06 - Aplicação - Handler's<br>
 </details>
 
 <details>
