@@ -1,0 +1,12 @@
+C:\projetos\90-c-sharp\Pets\Pets.Domain\bin\Debug\net5.0\Pets.Domain.deps.json
+C:\projetos\90-c-sharp\Pets\Pets.Domain\bin\Debug\net5.0\Pets.Domain.dll
+C:\projetos\90-c-sharp\Pets\Pets.Domain\bin\Debug\net5.0\Pets.Domain.pdb
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\Pets.Domain.csproj.AssemblyReference.cache
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\Pets.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\Pets.Domain.AssemblyInfoInputs.cache
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\Pets.Domain.AssemblyInfo.cs
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\Pets.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\Pets.Domain.dll
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\refint\Pets.Domain.dll
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\Pets.Domain.pdb
+C:\projetos\90-c-sharp\Pets\Pets.Domain\obj\Debug\net5.0\ref\Pets.Domain.dll

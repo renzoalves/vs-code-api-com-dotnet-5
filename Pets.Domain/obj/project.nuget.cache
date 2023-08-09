@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wNA1k/ymcn80M27/lB0n4bFgomtFOa9DTh2SWOfIbFtMq4YZsCbiCIQrk3zf+ciTOsiQa56ONwxwFRlZ2XcHAg==",
+  "dgSpecHash": "IO1G+quULBYGBSJRlFbBdc2J8u3qk3Luar78ZsNsJwMvudrZZATiKngHCyBIwL+LjaMyMAGoF6Bs0QEW78pKwg==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\vs-code-api-com-dotnet-5\\Pets.Domain\\Pets.Domain.csproj",
+  "projectFilePath": "C:\\projetos\\90-c-sharp\\Pets\\Pets.Domain\\Pets.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
