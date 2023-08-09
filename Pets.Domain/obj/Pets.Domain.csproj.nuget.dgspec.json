@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\vs-code-api-com-dotnet-5\\Pets.Domain\\Pets.Domain.csproj": {}
+    "C:\\projetos\\90-c-sharp\\Pets\\Pets.Domain\\Pets.Domain.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\vs-code-api-com-dotnet-5\\Pets.Domain\\Pets.Domain.csproj": {
+    "C:\\projetos\\90-c-sharp\\Pets\\Pets.Domain\\Pets.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\vs-code-api-com-dotnet-5\\Pets.Domain\\Pets.Domain.csproj",
+        "projectUniqueName": "C:\\projetos\\90-c-sharp\\Pets\\Pets.Domain\\Pets.Domain.csproj",
         "projectName": "Pets.Domain",
-        "projectPath": "C:\\projetos\\vs-code-api-com-dotnet-5\\Pets.Domain\\Pets.Domain.csproj",
+        "projectPath": "C:\\projetos\\90-c-sharp\\Pets\\Pets.Domain\\Pets.Domain.csproj",
         "packagesPath": "C:\\Users\\Imendes_008\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\vs-code-api-com-dotnet-5\\Pets.Domain\\obj\\",
+        "outputPath": "C:\\projetos\\90-c-sharp\\Pets\\Pets.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Imendes_008\\AppData\\Roaming\\NuGet\\NuGet.Config",
