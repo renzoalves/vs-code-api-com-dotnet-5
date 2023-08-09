@@ -6,7 +6,7 @@ namespace Pets.Domain.Etities.PetContext
 {
     public class Owner : BaseEntity, IContract
     {
-        protected Owner(Name name, string email, Document document)
+        public Owner(Name name, string email, Document document)
         : base(name)
         {
             Email = email;
