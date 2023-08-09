@@ -34,42 +34,24 @@
 <details>
 <summary> 📗 Camada de Domínio </summary>
 <br>
-
-01 - Introdução e apresentação do problema (API com dotNET-5) [5:09]<br>
-https://www.youtube.com/watch?v=VEEw-X3sYGg
-
-02 - Domínio - Linguagem Ubíqua e Contextos Delimitados(API com dotnet5) [4:16]<br>
-https://www.youtube.com/watch?v=wRwM2MVzHrw
-
-03 - Criando o projeto [2:09]<br>
-https://www.youtube.com/watch?v=2NbHSCyzeoY
-
-04 - Domínio - Entidades e entidade abstrata [6:30]<br>
-https://www.youtube.com/watch?v=-w6BK0BKPWo
-
-05 - Domínio - Modelando as entidades [8:45]<br>
-https://www.youtube.com/watch?v=T53hRmYXl_E
-
-06 - Domínio - Enums e Value Objects [7:04]<br>
-https://www.youtube.com/watch?v=7JoWaR-qmCA
-
-07 - Domínio - Validações das entidades [7:50]<br>
-https://www.youtube.com/watch?v=olkVSiFE6qE
-
-08 - Domínio - Contratos e Notificações (Contracts e Notifications) [7:27]<br>
-https://www.youtube.com/watch?v=vDU-a0UqATI
-
-09 - Domínio - Unindo os contratos, validações e notificações [20:07]<br>
-https://www.youtube.com/watch?v=Uy2A-BwUqX4
-
+01 - Introdução e apresentação do problema (API com dotNET-5)<br>
+02 - Domínio - Linguagem Ubíqua e Contextos Delimitados(API com dotnet5)<br>
+03 - Criando o projeto<br>
+04 - Domínio - Entidades e entidade abstrata<br>
+05 - Domínio - Modelando as entidades<br>
+06 - Domínio - Enums e Value Objects<br>
+07 - Domínio - Validações das entidades<br>
+08 - Domínio - Contratos e Notificações (Contracts e Notifications)<br>
+09 - Domínio - Unindo os contratos, validações e notificações<br>
+<br>
 </details>
 
 <details>
 <summary>📘 Camada de Testes Unitários </summary>
 <br>
-01 <br>
-02 <br>
-
+01 - Testes de unidade - Introdução<br>
+02 - Testes de unidade - Aplicando testes em entidades<br>
+<br>
 </details>
 
 <details>
@@ -82,6 +64,8 @@ https://www.youtube.com/watch?v=Uy2A-BwUqX4
 04 <br>
 05 <br>
 06 <br>
+
+<br>
 
 </details>
 
