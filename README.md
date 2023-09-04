@@ -124,11 +124,8 @@ Estrutura de modelo:<br>
 Note que o comando está sendo executado já dentro da pasta "Pets.Domain", respeitando a 'Estrutura de modelo'.
 
 Essa ação resultará com a criação do "Pets.Domain.csproj".
-<center>
 
 ![pets_domain_csproj-01](./Pets.Images/pets_domain_csproj-01.png)
-
-</center>
 
 ## Solution
 
