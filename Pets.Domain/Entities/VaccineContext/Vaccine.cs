@@ -12,8 +12,12 @@ namespace Pets.Domain.Etities.VaccineContext
             PetId = petId;
         }
 
+        /// <summary>Tipo/Identificação da Vacina.</summary>
         public Guid CategoryId { get; private set; }
+
+        /// <summary>Identificação do Pet que está recebendo a Vacina.</summary>
         public Guid PetId { get; private set; }
+        
         public override void SetDescription(string description)
         {
             base.SetDescription(description);
